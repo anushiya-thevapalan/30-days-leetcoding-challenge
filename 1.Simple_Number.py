@@ -26,5 +26,5 @@ class Solution:
     def singleNumber_approach_2(self, nums: List[int]) -> int:
         result = 0
         for i in nums:
-            result = i ^ nums
+            result = i ^ result
         return result
