@@ -1,1 +1,1 @@
-# 30-days-leetcoding-challenge
+# 30-Days Leetcoding Challenges
